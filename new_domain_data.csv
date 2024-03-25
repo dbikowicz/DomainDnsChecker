@@ -1,1 +1,5 @@
-Domain,Has SPF,Has DKIM,Has DMARC
+Domain,Has SPF,Has DKIM,Has DMARC,Error
+,,,,
+Percentage True,0.00%,0.00%,0.00%,
+Total All True,0.00%,,,
+Total All False,0.00%,,,
